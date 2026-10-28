@@ -9,7 +9,7 @@ O site está pronto na pasta `site/`, que é a pasta que vai para a hospedagem (
 Fotos: `site/assets/img/produtos/<slug>-<n>-480.webp` e `-900.webp` (proporção 4:5). Para adicionar uma cor nova, coloque a foto com o próximo número e acrescente o nome da cor em `colors`.
 
 ## Antes de publicar
-- Troque `site.url` em `build/produtos.js` pelo domínio real e rode o build de novo (canonical, Open Graph, sitemap e schema dependem dele).
+- O `vercel.json` publica a pasta `site/`. Troque `site.url` em `build/produtos.js` pelo domínio real e rode o build de novo (canonical, Open Graph, sitemap e schema dependem dele).
 - Cadastre o site no Google Search Console e envie o `sitemap.xml`.
 
 ## Testar localmente

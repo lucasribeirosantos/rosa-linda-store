@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rosalindastore.com.br/sitemap.xml
+Sitemap: https://rosa-linda.vercel.app/sitemap.xml

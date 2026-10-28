@@ -7,7 +7,7 @@
 
 module.exports = {
   site: {
-    url: 'https://rosalindastore.com.br/', // troque pelo domínio final
+    url: 'https://rosa-linda.vercel.app/', // troque pelo domínio final quando tiver um próprio
     name: 'Rosa Linda Store',
     whatsapp: '5538998823210',
     whatsappDisplay: '+55 (38) 99882-3210',
