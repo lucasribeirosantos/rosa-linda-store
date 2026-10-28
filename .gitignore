@@ -1,0 +1,13 @@
+# Material bruto (fotos originais em PNG e catálogo PDF) — as versões otimizadas ficam em site/assets/img
+/Almofadas/
+/Bolsas_/
+/Roupas_/
+/Sousplat_/
+/Tapetes/
+/Rosa Linda Store.pdf
+/Logo Rosa Linda.PNG
+
+node_modules/
+.claude/
+.DS_Store
+Thumbs.db
